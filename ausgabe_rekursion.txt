@@ -1,0 +1,15 @@
+Files:
+ 
+53794d70-3392-4199-9f71-1457e3fde7cf.jpg           C:\Users\leont\OneDrive\pythonProject1                                        4.0
+DasDuelL_LGT.docx                                  C:\Users\leont\OneDrive\pythonProject1                                        4.0
+hui.docx                                           C:\Users\leont\OneDrive\pythonProject1                                        4.0
+IDAF_Arbeit_LGT.pdf                                C:\Users\leont\OneDrive\pythonProject1                                        4.0
+InterpretationFenstertheater.docx                  C:\Users\leont\OneDrive\pythonProject1                                        4.0
+LGT_IDAFARBEIT_20_09_2023(Kopie).pdf               C:\Users\leont\OneDrive\pythonProject1                                        4.0
+
+Folders: 
+ 
+hahahha                                            C:\Users\leont\OneDrive\pythonProject1                                        4.0
+
+PermissionErrors:
+ 
